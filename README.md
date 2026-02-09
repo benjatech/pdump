@@ -11,7 +11,7 @@ Project Dump is a command-line tool that consolidates all your project files int
 **Linux/macOS:**
 ```bash
 # Download the binary
-wget https://github.com/YOUR_USERNAME/pdump/releases/latest/download/pdump
+wget https://github.com/benjatech/pdump/releases/latest/download/pdump
 
 # Make it executable
 chmod +x pdump
@@ -30,7 +30,7 @@ Download `pdump.exe` and add it to your PATH.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/pdump.git
+git clone https://github.com/benjatech/pdump.git
 cd pdump
 
 # Make the script executable
